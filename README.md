@@ -24,9 +24,13 @@ python -m http.server 8000 --directory site
 
 Sonra `http://localhost:8000` adresini açın. Alternatif olarak VS Code Live Server kullanılabilir; kök klasör olarak `site/` seçilmelidir.
 
-## Yayınlama
+## Yayınlama (GitHub Pages)
 
-`site/` klasörünün içeriğini GitHub Pages, Netlify veya Vercel üzerinde statik site olarak yayınlayabilirsiniz. Yayın sonrası canlı URL'yi README'ye ekleyin. LinkedIn `og:image` önizlemesi için `site/assets/og-image.svg` kullanılır; ödev yönergesi PNG 1200×627 istediği için teslimden önce bu SVG'yi 1200×627 PNG olarak dışa aktarıp `og:image` adresini güncelleyin.
+Bu depodaki `.github/workflows/pages.yml` iş akışı `site/` klasörünü GitHub Pages'e dağıtacak şekilde ayarlanmıştır. İlk yayını etkinleştirmek için depo ayarlarında **Settings → Pages → Build and deployment → Source** alanını **GitHub Actions** olarak seçin. Ardından **Actions** sekmesinden “Deploy Trend Atlas to GitHub Pages” iş akışını yeniden çalıştırın.
+
+Yayın başarılı olunca beklenen adres: https://selinddrmz.github.io/20-yilda-degisen-trendler/
+
+Sosyal paylaşım görseli `site/assets/og-image.png` dosyasıdır; `site/assets/og-image.svg` vektörel alternatif olarak korunmuştur.
 
 ## Veri kaynağı ve lisans
 
@@ -57,7 +61,7 @@ Web arayüzünün iskeleti, CSS ve JavaScript etkileşimleri ChatGPT desteğiyle
 - Paylaşım görseli: `site/assets/og-image.png`
 
 ## Teslim durumu
-Canlı yayın, herkese açık GitHub bağlantısı ve gerçek Lighthouse raporları bu pakette hazır/kanıtlanmış değildir; yayın ve tarayıcı testlerinden sonra tamamlanmalıdır. LinkedIn taslağındaki yer tutucular gerçek bağlantılarla değiştirilmelidir.
+GitHub deposu herkese açıktır ve proje dosyaları yüklenmiştir. Canlı site, Pages ayarı tamamlanıp dağıtım iş akışı başarılı olduktan sonra doğrulanmalıdır. Lighthouse rapor ekran görüntüleri ve portfolyo kartı hâlâ ayrıca eklenmelidir. LinkedIn taslağındaki canlı site bağlantısı yayın sonrası doğrulanmalıdır.
 
 
 ## Güncel düzeltmeler

@@ -26,11 +26,11 @@ Sonra `http://localhost:8000` adresini açın. Alternatif olarak VS Code Live Se
 
 ## Yayınlama (GitHub Pages)
 
-Bu depodaki `.github/workflows/pages.yml` iş akışı `site/` klasörünü GitHub Pages'e dağıtacak şekilde ayarlanmıştır. İlk yayını etkinleştirmek için depo ayarlarında **Settings → Pages → Build and deployment → Source** alanını **GitHub Actions** olarak seçin. Ardından **Actions** sekmesinden “Deploy Trend Atlas to GitHub Pages” iş akışını yeniden çalıştırın.
+Site, depo kökündeki `index.html` dosyasından yayınlanabilir. GitHub deposunda **Settings → Pages → Build and deployment → Source** bölümünde **Deploy from a branch** seçin. Branch olarak `main`, klasör olarak `/(root)` seçip **Save** düğmesine basın.
 
-Yayın başarılı olunca beklenen adres: https://selinddrmz.github.io/20-yilda-degisen-trendler/
+Yayınlama tamamlandığında adres: https://selinddrmz.github.io/20-yilda-degisen-trendler/ . İlk açılış birkaç dakika sürebilir.
 
-Sosyal paylaşım görseli `site/assets/og-image.png` dosyasıdır; `site/assets/og-image.svg` vektörel alternatif olarak korunmuştur.
+Sosyal paylaşım görseli `assets/og-image.svg` dosyasıdır.
 
 ## Veri kaynağı ve lisans
 

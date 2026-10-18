@@ -1,1 +1,17 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+VERİ HİKÂYESİ — TESLİM BAĞLANTILARI
+
+GitHub deposu: https://github.com/selinddrmz/20-yilda-degisen-trendler
+Canlı site: Henüz yayına alınmadı. Depo Settings > Pages bölümünde Source = GitHub Actions seçilmeli; ardından Actions sayfasından son dağıtım çalıştırması yeniden başlatılmalı.
+Beklenen site adresi: https://selinddrmz.github.io/20-yilda-degisen-trendler/
+
+Portfolyo: Henüz güncellenmedi; güncel portfolyo URL'si eklenmeli.
+Notebook: notebooks/google_trends_analizi.ipynb
+Veri: data/raw/trends.csv ve site/data/site_data.json
+Storyboard: docs/storyboard.pdf ve docs/storyboard.md
+Tasarım kararları PDF: docs/tasarim_kararlari.pdf
+Tasarım referansı: docs/20 Yılda Değişen Trendler - Tasarım Referansı.pdf
+LinkedIn metni: linkedin_paylasim_metni.txt
+Paylaşım görseli: site/assets/og-image.png
+Lighthouse: Daha önce ölçülen mobil Performance 74 ve Accessibility 96. Rapor ekran görüntüleri teslim paketine ayrıca eklenmeli.
+
+Not: Canlı site, portfolyo bağlantısı ve Lighthouse ekran görüntüleri tamamlanmadan tüm teslim gereksinimlerinin tamamlandığı varsayılmamalıdır.

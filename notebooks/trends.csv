@@ -1,0 +1,1003 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: notebooks__trends.csv>
+index,location,year,category,rank,query
+0,Global,2001,Consumer Brands,1,Nokia
+1,Global,2001,Consumer Brands,2,Sony
+2,Global,2001,Consumer Brands,3,BMW
+3,Global,2001,Consumer Brands,4,Palm
+4,Global,2001,Consumer Brands,5,Adobe
+5,Global,2001,Men,1,Nostradamus
+6,Global,2001,Men,2,Osama bin Laden
+7,Global,2001,Men,3,Eminem
+8,Global,2001,Men,4,Michael Jackson
+9,Global,2001,Men,5,Howard Stern
+10,Global,2001,Movies,1,Harry Potter
+11,Global,2001,Movies,2,Lord of the Rings
+12,Global,2001,Movies,3,Final Fantasy
+13,Global,2001,Movies,4,Tomb Raider
+14,Global,2001,Movies,5,Shrek
+15,Global,2001,MP3 Music Services,1,Morpheus
+16,Global,2001,MP3 Music Services,2,Napster
+17,Global,2001,MP3 Music Services,3,Gnutella
+18,Global,2001,MP3 Music Services,4,Kazaa
+19,Global,2001,MP3 Music Services,5,Audiogalaxy
+20,Global,2001,Music Groups,1,Beatles
+21,Global,2001,Music Groups,2,U2
+22,Global,2001,Music Groups,3,N Sync
+23,Global,2001,Music Groups,4,Backstreet Boys
+24,Global,2001,Music Groups,5,Linkin Park
+25,Global,2001,New Products,1,Windows XP
+26,Global,2001,New Products,2,Xbox
+27,Global,2001,New Products,3,PlayStation 2
+28,Global,2001,New Products,4,GameCube
+29,Global,2001,New Products,5,Nokia 5510
+30,Global,2001,News Resources,1,CNN
+31,Global,2001,News Resources,2,BBC
+32,Global,2001,News Resources,3,New York Times
+33,Global,2001,News Resources,4,MSNBC
+34,Global,2001,News Resources,5,Washington Post
+35,Global,2001,Retailers,1,Amazon
+36,Global,2001,Retailers,2,IKEA
+37,Global,2001,Retailers,3,"Toys ""R"" Us"
+38,Global,2001,Retailers,4,Walmart
+39,Global,2001,Retailers,5,Circuit City
+40,Global,2001,Sports,1,Anna Kournikova
+41,Global,2001,Sports,2,Tour de France
+42,Global,2001,Sports,3,Dale Earnhardt
+43,Global,2001,Sports,4,Wimbledon
+44,Global,2001,Sports,5,US Open
+45,Global,2001,TV Shows,1,Loft Story
+46,Global,2001,TV Shows,2,Big Brother
+47,Global,2001,TV Shows,3,The Simpsons
+48,Global,2001,TV Shows,4,Survivor
+49,Global,2001,TV Shows,5,Gran Hermano
+50,Global,2001,Video Games,1,Counterstrike
+51,Global,2001,Video Games,2,The Sims
+52,Global,2001,Video Games,3,Operation Flashpoint
+53,Global,2001,Video Games,4,Moorhuhn 3
+54,Global,2001,Video Games,5,Wolfenstein
+55,Global,2001,Women,1,Britney Spears
+56,Global,2001,Women,2,Pamela Anderson
+57,Global,2001,Women,3,Jennifer Lopez
+58,Global,2001,Women,4,Madonna
+59,Global,2001,Women,5,Aaliyah
+60,Global,2002,Athletes,1,David Beckham
+61,Global,2002,Athletes,2,Anna Kournikova
+62,Global,2002,Athletes,3,Ronaldo
+63,Global,2002,Athletes,4,Kobe Bryant
+64,Global,2002,Athletes,5,Zinedine Zidane
+65,Global,2002,Consumer Brands,1,Ferrari
+66,Global,2002,Consumer Brands,2,Sony
+67,Global,2002,Consumer Brands,3,Nokia
+68,Global,2002,Consumer Brands,4,Disney
+69,Global,2002,Consumer Brands,5,IKEA
+70,Global,2002,Kids' Images,1,The Simpsons
+71,Global,2002,Kids' Images,2,Pokémon
+72,Global,2002,Kids' Images,3,Snoopy
+73,Global,2002,Kids' Images,4,Superman
+74,Global,2002,Kids' Images,5,Batman
+75,Global,2002,Men,1,Eminem
+76,Global,2002,Men,2,Brad Pitt
+77,Global,2002,Men,3,David Beckham
+78,Global,2002,Men,4,Josh Hartnett
+79,Global,2002,Men,5,2Pac
+80,Global,2002,Movies,1,Spiderman
+81,Global,2002,Movies,2,Harry Potter
+82,Global,2002,Movies,3,Star Wars
+83,Global,2002,Movies,4,Jackass
+84,Global,2002,Movies,5,Scooby Doo
+85,Global,2002,Musicians and Bands,1,Eminem
+86,Global,2002,Musicians and Bands,2,Shakira
+87,Global,2002,Musicians and Bands,3,Madonna
+88,Global,2002,Musicians and Bands,4,Nelly
+89,Global,2002,Musicians and Bands,5,2Pac
+90,Global,2002,News Stories,1,World Cup
+91,Global,2002,News Stories,2,Iraq
+92,Global,2002,News Stories,3,Sniper
+93,Global,2002,News Stories,4,Hurricane Lili
+94,Global,2002,News Stories,5,Hochwasser
+95,Global,2002,Retailers,1,IKEA
+96,Global,2002,Retailers,2,Home Depot
+97,Global,2002,Retailers,3,Walmart
+98,Global,2002,Retailers,4,Best Buy
+99,Global,2002,Retailers,5,Sears
+100,Global,2002,Technology,1,MP3
+101,Global,2002,Technology,2,SMS
+102,Global,2002,Technology,3,WinZip
+103,Global,2002,Technology,4,Linux
+104,Global,2002,Technology,5,FTP
+105,Global,2002,Travel Destinations,1,Paris
+106,Global,2002,Travel Destinations,2,Canada
+107,Global,2002,Travel Destinations,3,New York
+108,Global,2002,Travel Destinations,4,India
+109,Global,2002,Travel Destinations,5,Las Vegas
+110,Global,2002,TV Shows,1,The Simpsons
+111,Global,2002,TV Shows,2,Big Brother
+112,Global,2002,TV Shows,3,The Osbournes
+113,Global,2002,TV Shows,4,South Park
+114,Global,2002,TV Shows,5,SpongeBob SquarePants
+115,Global,2002,Video Games,1,The Sims
+116,Global,2002,Video Games,2,Counter Strike
+117,Global,2002,Video Games,3,GTA 3
+118,Global,2002,Video Games,4,Warcraft 3
+119,Global,2002,Video Games,5,Jedi Knight 2
+120,Global,2002,Women,1,Britney Spears
+121,Global,2002,Women,2,Pamela Anderson
+122,Global,2002,Women,3,Jennifer Lopez
+123,Global,2002,Women,4,Shakira
+124,Global,2002,Women,5,Anna Kournikova
+125,France,2002,Marques,1,SNCF
+126,France,2002,Marques,2,Wanadoo
+127,France,2002,Marques,3,Michelin
+128,France,2002,Marques,4,Air France
+129,France,2002,Marques,5,SFR
+130,France,2002,Personnalités,1,Britney Spears
+131,France,2002,Personnalités,2,Shakira
+132,France,2002,Personnalités,3,Jennifer Lopez
+133,France,2002,Personnalités,4,Vanessa Demouy
+134,France,2002,Personnalités,5,Alyssa Milano
+135,France,2002,Tendances de l'année,1,SNCF
+136,France,2002,Tendances de l'année,2,Meteo
+137,France,2002,Tendances de l'année,3,Anpe
+138,France,2002,Tendances de l'année,4,FNAC
+139,France,2002,Tendances de l'année,5,Loft Story
+140,Germany,2002,Die häufigsten Suchbegriffe,1,Lastminute
+141,Germany,2002,Die häufigsten Suchbegriffe,2,Ryanair
+142,Germany,2002,Die häufigsten Suchbegriffe,3,Aldi
+143,Germany,2002,Die häufigsten Suchbegriffe,4,Herr der Ringe
+144,Germany,2002,Die häufigsten Suchbegriffe,5,Euro
+145,Germany,2002,Meist gesuchte Automarken,1,BMW
+146,Germany,2002,Meist gesuchte Automarken,2,Ferrari
+147,Germany,2002,Meist gesuchte Automarken,3,Audi
+148,Germany,2002,Meist gesuchte Automarken,4,VW
+149,Germany,2002,Meist gesuchte Automarken,5,Porsche
+150,Germany,2002,Meist gesuchte Musiker 2002,1,Shakira
+151,Germany,2002,Meist gesuchte Musiker 2002,2,Jennifer Lopez
+152,Germany,2002,Meist gesuchte Musiker 2002,3,Britney Spears
+153,Germany,2002,Meist gesuchte Musiker 2002,4,No Angels
+154,Germany,2002,Meist gesuchte Musiker 2002,5,Sarah Connor
+155,United Kingdom,2002,Men,1,Gareth Gates
+156,United Kingdom,2002,Men,2,David Beckham
+157,United Kingdom,2002,Men,3,Eminem
+158,United Kingdom,2002,Men,4,Orlando Bloom
+159,United Kingdom,2002,Men,5,Brad Pitt
+160,United Kingdom,2002,Searches,1,BBC
+161,United Kingdom,2002,Searches,2,Big Brother
+162,United Kingdom,2002,Searches,3,EasyJet
+163,United Kingdom,2002,Searches,4,Britney Spears
+164,United Kingdom,2002,Searches,5,Ryanair
+165,United Kingdom,2002,Women,1,Britney Spears
+166,United Kingdom,2002,Women,2,Kylie Minogue
+167,United Kingdom,2002,Women,3,Holly Valance
+168,United Kingdom,2002,Women,4,Kelly Brook
+169,United Kingdom,2002,Women,5,Katie Price
+170,Global,2003,Anime Images,1,Manga
+171,Global,2003,Anime Images,2,Final Fantasy
+172,Global,2003,Anime Images,3,Sailor Moon
+173,Global,2003,Anime Images,4,Yu-Gi-Oh!
+174,Global,2003,Anime Images,5,Dragon Ball Z
+175,Global,2003,Consumer Brands,1,Ferrari
+176,Global,2003,Consumer Brands,2,Sony
+177,Global,2003,Consumer Brands,3,BMW
+178,Global,2003,Consumer Brands,4,Disney
+179,Global,2003,Consumer Brands,5,Ryanair
+180,Global,2003,Earthquake Searches,1,Earthquake
+181,Global,2003,Earthquake Searches,2,California Earthquake
+182,Global,2003,Earthquake Searches,3,Earthquakes
+183,Global,2003,Earthquake Searches,4,Earthquake California
+184,Global,2003,Earthquake Searches,5,California Earthquakes
+185,Global,2003,Fictional Character Images,1,The Simpsons
+186,Global,2003,Fictional Character Images,2,Harry Potter
+187,Global,2003,Fictional Character Images,3,Pokémon
+188,Global,2003,Fictional Character Images,4,Spiderman
+189,Global,2003,Fictional Character Images,5,Winnie the Pooh
+190,Global,2003,Male Celebrity Images,1,Eminem
+191,Global,2003,Male Celebrity Images,2,David Beckham
+192,Global,2003,Male Celebrity Images,3,Orlando Bloom
+193,Global,2003,Male Celebrity Images,4,Justin Timberlake
+194,Global,2003,Male Celebrity Images,5,50 Cent
+195,Global,2003,News Searches,1,Iraq
+196,Global,2003,News Searches,2,Laci Peterson
+197,Global,2003,News Searches,3,Kobe Bryant
+198,Global,2003,News Searches,4,Bertrand Cantat
+199,Global,2003,News Searches,5,RIAA
+200,Global,2003,Searches,1,Britney Spears
+201,Global,2003,Searches,2,Harry Potter
+202,Global,2003,Searches,3,Matrix
+203,Global,2003,Searches,4,Shakira
+204,Global,2003,Searches,5,David Beckham
+205,Australia,2003,Popular Movies,1,2 Fast 2 Furious
+206,Australia,2003,Popular Movies,2,Lord of the Rings
+207,Australia,2003,Popular Movies,3,Finding Nemo
+208,Australia,2003,Popular Movies,4,Texas Chainsaw Massacre
+209,Australia,2003,Popular Movies,5,Pirates of the Caribbean
+210,Australia,2003,Popular Queries,1,Australian Idol
+211,Australia,2003,Popular Queries,2,Christina Aguilera
+212,Australia,2003,Popular Queries,3,Britney Spears
+213,Australia,2003,Popular Queries,4,Qantas
+214,Australia,2003,Popular Queries,5,Eminem
+215,Australia,2003,Popular Sports-Related Queries,1,Melbourne Cup
+216,Australia,2003,Popular Sports-Related Queries,2,Rugby World Cup
+217,Australia,2003,Popular Sports-Related Queries,3,Surfing
+218,Australia,2003,Popular Sports-Related Queries,4,Jonny Wilkinson
+219,Australia,2003,Popular Sports-Related Queries,5,Soccer
+220,Canada,2003,Popular Brands,1,Air Canada
+221,Canada,2003,Popular Brands,2,Ferrari
+222,Canada,2003,Popular Brands,3,Walmart
+223,Canada,2003,Popular Brands,4,WestJet
+224,Canada,2003,Popular Brands,5,IKEA
+225,Canada,2003,Popular Music,1,Britney Spears
+226,Canada,2003,Popular Music,2,Christina Aguilera
+227,Canada,2003,Popular Music,3,Eminem
+228,Canada,2003,Popular Music,4,Jennifer Lopez
+229,Canada,2003,Popular Music,5,50 Cent
+230,Canada,2003,Popular Queries,1,Finding Nemo
+231,Canada,2003,Popular Queries,2,Paris Hilton
+232,Canada,2003,Popular Queries,3,InuYasha
+233,Canada,2003,Popular Queries,4,Canada 411
+234,Canada,2003,Popular Queries,5,Orlando Bloom
+235,France,2003,Femmes célèbres,1,Britney Spears
+236,France,2003,Femmes célèbres,2,Lorie
+237,France,2003,Femmes célèbres,3,JLo
+238,France,2003,Femmes célèbres,4,Alyssa Milano
+239,France,2003,Femmes célèbres,5,Christina Aguilera
+240,France,2003,Hommes célèbres,1,Eminem
+241,France,2003,Hommes célèbres,2,Harry Potter
+242,France,2003,Hommes célèbres,3,Marilyn Manson
+243,France,2003,Hommes célèbres,4,Michael Jackson
+244,France,2003,Hommes célèbres,5,Justin Timberlake
+245,France,2003,Tendances de l'année,1,SNCF
+246,France,2003,Tendances de l'année,2,Fnac
+247,France,2003,Tendances de l'année,3,Star Academy
+248,France,2003,Tendances de l'année,4,TF1
+249,France,2003,Tendances de l'année,5,Matrix
+250,Germany,2003,Beliebte Filme,1,Matrix
+251,Germany,2003,Beliebte Filme,2,Harry Potter
+252,Germany,2003,Beliebte Filme,3,Herr Der Ringe
+253,Germany,2003,Beliebte Filme,4,Findet Nemo
+254,Germany,2003,Beliebte Filme,5,Kill Bill
+255,Germany,2003,Beliebte Suchanfragen,1,Yu-Gi-Oh
+256,Germany,2003,Beliebte Suchanfragen,2,Jeanette Biedermann
+257,Germany,2003,Beliebte Suchanfragen,3,Paris Hilton
+258,Germany,2003,Beliebte Suchanfragen,4,BMW
+259,Germany,2003,Beliebte Suchanfragen,5,Stiftung Warentest
+260,Germany,2003,Beliebte Suchanfragen aus dem Reisebereich,1,Ryanair
+261,Germany,2003,Beliebte Suchanfragen aus dem Reisebereich,2,Deutsche Bahn
+262,Germany,2003,Beliebte Suchanfragen aus dem Reisebereich,3,Last Minute
+263,Germany,2003,Beliebte Suchanfragen aus dem Reisebereich,4,Lufthansa
+264,Germany,2003,Beliebte Suchanfragen aus dem Reisebereich,5,Germanwings
+265,Italy,2003,Popular Brands,1,Nokia
+266,Italy,2003,Popular Brands,2,Hewlett-Packard
+267,Italy,2003,Popular Brands,3,Vodafone
+268,Italy,2003,Popular Brands,4,IKEA
+269,Italy,2003,Popular Brands,5,Xbox
+270,Italy,2003,Popular Italian Singers,1,Eros Ramazzotti
+271,Italy,2003,Popular Italian Singers,2,Vasco Rossi
+272,Italy,2003,Popular Italian Singers,3,Gigi D'Alessio
+273,Italy,2003,Popular Italian Singers,4,Tiziano Ferro
+274,Italy,2003,Popular Italian Singers,5,Giorgia
+275,Italy,2003,Popular Queries,1,Pagine Bianche
+276,Italy,2003,Popular Queries,2,Meteo
+277,Italy,2003,Popular Queries,3,Trenitalia
+278,Italy,2003,Popular Queries,4,Auto Usate
+279,Italy,2003,Popular Queries,5,Musica
+280,Netherlands,2003,Popular Men,1,Eminem
+281,Netherlands,2003,Popular Men,2,Justin Timberlake
+282,Netherlands,2003,Popular Men,3,Robbie Williams
+283,Netherlands,2003,Popular Men,4,Orlando Bloom
+284,Netherlands,2003,Popular Men,5,Frans Bauer
+285,Netherlands,2003,Popular Movies,1,2 Fast 2 Furious
+286,Netherlands,2003,Popular Movies,2,Lord of the Rings
+287,Netherlands,2003,Popular Movies,3,Matrix
+288,Netherlands,2003,Popular Movies,4,Harry Potter
+289,Netherlands,2003,Popular Movies,5,Finding Nemo
+290,Netherlands,2003,Popular Queries,1,Spongebob
+291,Netherlands,2003,Popular Queries,2,Christina Aguilera
+292,Netherlands,2003,Popular Queries,3,Voetbal
+293,Netherlands,2003,Popular Queries,4,Beyonce
+294,Netherlands,2003,Popular Queries,5,Vuurwerk
+295,Spain,2003,Popular Men,1,Eminem
+296,Spain,2003,Popular Men,2,Valentino Rossi
+297,Spain,2003,Popular Men,3,Beckham
+298,Spain,2003,Popular Men,4,Orlando Bloom
+299,Spain,2003,Popular Men,5,Josh Hartnett
+300,Spain,2003,Popular Movies,1,Matrix
+301,Spain,2003,Popular Movies,2,El Senor de los Anillos
+302,Spain,2003,Popular Movies,3,Harry Potter
+303,Spain,2003,Popular Movies,4,Spiderman
+304,Spain,2003,Popular Movies,5,Hulk
+305,Spain,2003,Popular Queries,1,Letizia Ortiz
+306,Spain,2003,Popular Queries,2,Terra
+307,Spain,2003,Popular Queries,3,Gran Hermano
+308,Spain,2003,Popular Queries,4,Juegos
+309,Spain,2003,Popular Queries,5,Coches
+310,United Kingdom,2003,Searches,1,Prince Charles
+311,United Kingdom,2003,Searches,2,EastEnders
+312,United Kingdom,2003,Searches,3,Winnie the Pooh
+313,United Kingdom,2003,Searches,4,Jonny Wilkinson
+314,United Kingdom,2003,Searches,5,EasyJet
+315,United Kingdom,2003,Sports,1,Jonny Wilkinson
+316,United Kingdom,2003,Sports,2,David Beckham
+317,United Kingdom,2003,Sports,3,Rugby World Cup
+318,United Kingdom,2003,Sports,4,Manchester United
+319,United Kingdom,2003,Sports,5,Football
+320,United Kingdom,2003,Travel,1,EasyJet
+321,United Kingdom,2003,Travel,2,Cheap Flights
+322,United Kingdom,2003,Travel,3,Ryanair
+323,United Kingdom,2003,Travel,4,British Airways
+324,United Kingdom,2003,Travel,5,Train Times
+325,Global,2004,Car Images,1,Ferrari
+326,Global,2004,Car Images,2,BMW
+327,Global,2004,Car Images,3,Lamborghini
+328,Global,2004,Car Images,4,Nissan Skyline
+329,Global,2004,Car Images,5,Porsche
+330,Global,2004,Cartoons Images,1,The Simpsons
+331,Global,2004,Cartoons Images,2,Pokémon
+332,Global,2004,Cartoons Images,3,South Park
+333,Global,2004,Cartoons Images,4,Garfield
+334,Global,2004,Cartoons Images,5,Hello Kitty
+335,Global,2004,Companies,1,SCO
+336,Global,2004,Companies,2,Johnson & Johnson
+337,Global,2004,Companies,3,ING
+338,Global,2004,Companies,4,GE Aviation
+339,Global,2004,Companies,5,Fleet
+340,Global,2004,Consumer Brands,1,eBay
+341,Global,2004,Consumer Brands,2,Walmart
+342,Global,2004,Consumer Brands,3,MapQuest
+343,Global,2004,Consumer Brands,4,Amazon
+344,Global,2004,Consumer Brands,5,Home Depot
+345,Global,2004,Countries,1,France
+346,Global,2004,Countries,2,China
+347,Global,2004,Countries,3,India
+348,Global,2004,Countries,4,Iraq
+349,Global,2004,Countries,5,Iran
+350,Global,2004,Deaths of 2004,1,Nicholas Berg
+351,Global,2004,Deaths of 2004,2,Christopher Reeve
+352,Global,2004,Deaths of 2004,3,Spalding Gray
+353,Global,2004,Deaths of 2004,4,Marlon Brando
+354,Global,2004,Deaths of 2004,5,Kenneth Bigley
+355,Global,2004,Entertainment,1,Spa
+356,Global,2004,Entertainment,2,Movies
+357,Global,2004,Entertainment,3,Nightclub
+358,Global,2004,Entertainment,4,Pub
+359,Global,2004,Entertainment,5,Zoo
+360,Global,2004,Female Celebrity Images,1,Britney Spears
+361,Global,2004,Female Celebrity Images,2,Christina Aguilera
+362,Global,2004,Female Celebrity Images,3,Pamela Anderson
+363,Global,2004,Female Celebrity Images,4,Paris Hilton
+364,Global,2004,Female Celebrity Images,5,Carmen Electra
+365,Global,2004,Foods,1,Pizza
+366,Global,2004,Foods,2,Sushi
+367,Global,2004,Foods,3,Bakery
+368,Global,2004,Foods,4,Chinese
+369,Global,2004,Foods,5,Italian
+370,Global,2004,Froogle Brand Searches,1,Louis Vuitton
+371,Global,2004,Froogle Brand Searches,2,Nikon
+372,Global,2004,Froogle Brand Searches,3,Canon
+373,Global,2004,Froogle Brand Searches,4,Treo
+374,Global,2004,Froogle Brand Searches,5,Tiffany
+375,Global,2004,Froogle Clothing Searches,1,Bikini
+376,Global,2004,Froogle Clothing Searches,2,Mini Skirt
+377,Global,2004,Froogle Clothing Searches,3,Prom Dresses
+378,Global,2004,Froogle Clothing Searches,4,Lingerie
+379,Global,2004,Froogle Clothing Searches,5,Little Black Dress
+380,Global,2004,Froogle Computer Goods Searches,1,Tablet PC
+381,Global,2004,Froogle Computer Goods Searches,2,Computer
+382,Global,2004,Froogle Computer Goods Searches,3,Laptop
+383,Global,2004,Froogle Computer Goods Searches,4,Headphones
+384,Global,2004,Froogle Computer Goods Searches,5,Computer Speakers
+385,Global,2004,Froogle Electronics Searches,1,iPod
+386,Global,2004,Froogle Electronics Searches,2,Digital Camera
+387,Global,2004,Froogle Electronics Searches,3,MP3
+388,Global,2004,Froogle Electronics Searches,4,Xbox
+389,Global,2004,Froogle Electronics Searches,5,PlayStation 2
+390,Global,2004,Froogle Hobby Searches,1,Poker Chips
+391,Global,2004,Froogle Hobby Searches,2,Airsoft Guns
+392,Global,2004,Froogle Hobby Searches,3,Mountain Bike
+393,Global,2004,Froogle Hobby Searches,4,Pocket Bike
+394,Global,2004,Froogle Hobby Searches,5,Night Vision Goggles
+395,Global,2004,Froogle Shoe Searches,1,UGG Boots
+396,Global,2004,Froogle Shoe Searches,2,Puma
+397,Global,2004,Froogle Shoe Searches,3,Adidas
+398,Global,2004,Froogle Shoe Searches,4,Nike
+399,Global,2004,Froogle Shoe Searches,5,Aerosole
+400,Global,2004,Health Services,1,Doctor
+401,Global,2004,Health Services,2,Hospital
+402,Global,2004,Health Services,3,Massage
+403,Global,2004,Health Services,4,Dentist
+404,Global,2004,Health Services,5,Yoga
+405,Global,2004,Hotel Chains,1,Holiday Inn
+406,Global,2004,Hotel Chains,2,Hampton Inn
+407,Global,2004,Hotel Chains,3,Marriott
+408,Global,2004,Hotel Chains,4,Hilton
+409,Global,2004,Hotel Chains,5,Days Inn
+410,Global,2004,Male Celebrity Images,1,Orlando Bloom
+411,Global,2004,Male Celebrity Images,2,Eminem
+412,Global,2004,Male Celebrity Images,3,Usher
+413,Global,2004,Male Celebrity Images,4,Johnny Depp
+414,Global,2004,Male Celebrity Images,5,Brad Pitt
+415,Global,2004,Men,1,Orlando Bloom
+416,Global,2004,Men,2,Eminem
+417,Global,2004,Men,3,Usher
+418,Global,2004,Men,4,Johnny Depp
+419,Global,2004,Men,5,Brad Pitt
+420,Global,2004,News Outlets,1,CNN
+421,Global,2004,News Outlets,2,Washington Post
+422,Global,2004,News Outlets,3,BBC
+423,Global,2004,News Outlets,4,Fox News
+424,Global,2004,News Outlets,5,New York Times
+425,Global,2004,Professional Services,1,Real Estate
+426,Global,2004,Professional Services,2,Attorney
+427,Global,2004,Professional Services,3,Insurance Broker
+428,Global,2004,Professional Services,4,Car Dealer
+429,Global,2004,Professional Services,5,Hair Salon
+430,Global,2004,Public Figures,1,George W. Bush
+431,Global,2004,Public Figures,2,Janet Jackson
+432,Global,2004,Public Figures,3,John Kerry
+433,Global,2004,Public Figures,4,Britney Spears
+434,Global,2004,Public Figures,5,Saddam Hussein
+435,Global,2004,Retail Chains,1,Walmart
+436,Global,2004,Retail Chains,2,Home Depot
+437,Global,2004,Retail Chains,3,Best Buy
+438,Global,2004,Retail Chains,4,Costco
+439,Global,2004,Retail Chains,5,Walgreens
+440,Global,2004,Searches,1,Britney Spears
+441,Global,2004,Searches,2,Paris Hilton
+442,Global,2004,Searches,3,Christina Aguilera
+443,Global,2004,Searches,4,Pamela Anderson
+444,Global,2004,Searches,5,Chat
+445,Global,2004,Sports,1,David Beckham
+446,Global,2004,Sports,2,Tour de France
+447,Global,2004,Sports,3,Euro 2004
+448,Global,2004,Sports,4,NBA
+449,Global,2004,Sports,5,Lance Armstrong
+450,Global,2004,Sports Services,1,YMCA
+451,Global,2004,Sports Services,2,Golf
+452,Global,2004,Sports Services,3,Campground
+453,Global,2004,Sports Services,4,Bowling
+454,Global,2004,Sports Services,5,Marathon
+455,Global,2004,Technology,1,Wallpaper
+456,Global,2004,Technology,2,Kazaa
+457,Global,2004,Technology,3,MP3
+458,Global,2004,Technology,4,Spybot
+459,Global,2004,Technology,5,Linux
+460,Global,2004,TV Shows,1,The Simpsons
+461,Global,2004,TV Shows,2,Pokémon
+462,Global,2004,TV Shows,3,South Park
+463,Global,2004,TV Shows,4,Charmed
+464,Global,2004,TV Shows,5,SpongeBob SquarePants
+465,Global,2004,Women,1,Britney Spears
+466,Global,2004,Women,2,Paris Hilton
+467,Global,2004,Women,3,Christina Aguilera
+468,Global,2004,Women,4,Pamela Anderson
+469,Global,2004,Women,5,Carmen Electra
+470,Global,2005,Froogle Searches,1,iPod
+471,Global,2005,Froogle Searches,2,Digital Camera
+472,Global,2005,Froogle Searches,3,MP3 Player
+473,Global,2005,Froogle Searches,4,iPod Mini
+474,Global,2005,Froogle Searches,5,PlayStation Portable
+475,Global,2005,Most Searched,1,Janet Jackson
+476,Global,2005,Most Searched,2,Hurricane Katrina
+477,Global,2005,Most Searched,3,Tsunami
+478,Global,2005,Most Searched,4,Xbox 360
+479,Global,2005,Most Searched,5,Brad Pitt
+480,Global,2006,Deaths of 2006,1,Aaron Spelling
+481,Global,2006,Deaths of 2006,2,Kirby Puckett
+482,Global,2006,Deaths of 2006,3,Jack Wild
+483,Global,2006,Deaths of 2006,4,Clifford Geertz
+484,Global,2006,Deaths of 2006,5,Muriel Spark
+485,Global,2006,Define...,1,Define Promiscuous
+486,Global,2006,Define...,2,Define Web 2.0
+487,Global,2006,Define...,3,Define FTW
+488,Global,2006,Define...,4,Define Calidad
+489,Global,2006,Define...,5,Define Ajax
+490,Global,2006,Divorces,1,Paul McCartney and Heather Mills
+491,Global,2006,Divorces,2,Travis Barker and Shanna Moakler
+492,Global,2006,Divorces,3,Britney Spears and Kevin Federline
+493,Global,2006,Divorces,4,Whitney Houston and Bobby Brown
+494,Global,2006,Divorces,5,Eminem and Kim Mathers
+495,Global,2006,How to...,1,How to Refinance
+496,Global,2006,How to...,2,Wiki How To
+497,Global,2006,How to...,3,How to Drift
+498,Global,2006,How to...,4,How to Podcast
+499,Global,2006,How to...,5,How to Scream
+500,Global,2006,Jerseys,1,World Cup Jerseys
+501,Global,2006,Jerseys,2,Zidane Jersey
+502,Global,2006,Jerseys,3,Buffalo Sabres Jersey
+503,Global,2006,Jerseys,4,Ronaldinho Jersey
+504,Global,2006,Jerseys,5,Italy Jersey
+505,Global,2006,Most Searched,1,Bebo
+506,Global,2006,Most Searched,2,Myspace
+507,Global,2006,Most Searched,3,World Cup
+508,Global,2006,Most Searched,4,Metacafe
+509,Global,2006,Most Searched,5,Radioblog
+510,Global,2006,News Searches,1,Paris Hilton
+511,Global,2006,News Searches,2,Orlando Bloom
+512,Global,2006,News Searches,3,Cancer
+513,Global,2006,News Searches,4,Podcasting
+514,Global,2006,News Searches,5,Hurricane Katrina
+515,Global,2006,Retirements,1,Bob Barker
+516,Global,2006,Retirements,2,Bobby Bowden
+517,Global,2006,Retirements,3,Sammy Sosa
+518,Global,2006,Retirements,4,Tiki Barber
+519,Global,2006,Retirements,5,Bill Gates
+520,Global,2006,Weddings,1,Nicole Kidman and Keith Urban
+521,Global,2006,Weddings,2,Tom Cruise and Katie Holmes
+522,Global,2006,Weddings,3,Avril Lavigne and Deryck Whibley
+523,Global,2006,Weddings,4,Campbell Brown and Dan Senor
+524,Global,2006,Weddings,5,TomKat Wedding Photos
+525,Global,2006,What is...,1,What is Hezbollah
+526,Global,2006,What is...,2,What is Carisoprodol
+527,Global,2006,What is...,3,What is Acyclovir
+528,Global,2006,What is...,4,What is Alprazolam
+529,Global,2006,What is...,5,What is Tramadol
+530,Global,2006,Where is...,1,Where is Togo
+531,Global,2006,Where is...,2,Where is Matt
+532,Global,2006,Where is...,3,Where is Torino
+533,Global,2006,Where is...,4,Where is Darfur
+534,Global,2006,Where is...,5,Where is Villanova
+535,Global,2006,Who is...,1,Who is Borat
+536,Global,2006,Who is...,2,Who is Hezbollah
+537,Global,2006,Who is...,3,Who is EU
+538,Global,2006,Who is...,4,Who is Hot
+539,Global,2006,Who is...,5,Who is Capote
+540,United States,2006,Movie Showtimes,1,Idiocracy Showtimes
+541,United States,2006,Movie Showtimes,2,Cars Showtimes
+542,United States,2006,Movie Showtimes,3,Borat Showtimes
+543,United States,2006,Movie Showtimes,4,Superman Showtimes
+544,United States,2006,Movie Showtimes,5,Jesus Camp Showtimes
+545,United States,2006,Scandals,1,Duke Lacrosse Scandal
+546,United States,2006,Scandals,2,Project Runway Scandal
+547,United States,2006,Scandals,3,Duke Scandal
+548,United States,2006,Scandals,4,Duke Rape Scandal
+549,United States,2006,Scandals,5,Reggie Bush Scandal
+550,United States,2006,Tickets,1,Cheetah Girls Tickets
+551,United States,2006,Tickets,2,Mets Playoff Tickets
+552,United States,2006,Tickets,3,The Fray Tickets
+553,United States,2006,Tickets,4,Bob Seger Tickets
+554,United States,2006,Tickets,5,Chris Brown Tickets
+555,Global,2007,News Searches,1,American Idol
+556,Global,2007,News Searches,2,YouTube
+557,Global,2007,News Searches,3,Britney Spears
+558,Global,2007,News Searches,4,2007 Cricket World Cup
+559,Global,2007,News Searches,5,Chris Benoit
+560,United States,2007,Deaths of 2007,1,Anna Nicole Smith
+561,United States,2007,Deaths of 2007,2,Travis Barker (Rumored)
+562,United States,2007,Deaths of 2007,3,Vince McMahon (Rumored)
+563,United States,2007,Deaths of 2007,4,Chris Benoit
+564,United States,2007,Deaths of 2007,5,Fidel Castro (Rumored)
+565,United States,2007,Diets,1,Weight Watchers
+566,United States,2007,Diets,2,Jenny Craig
+567,United States,2007,Diets,3,Volumetrics
+568,United States,2007,Diets,4,Slim Fast
+569,United States,2007,Diets,5,Atkins Diet
+570,United States,2007,Fitness,1,Pilates
+571,United States,2007,Fitness,2,Bikram Yoga
+572,United States,2007,Fitness,3,Spinning
+573,United States,2007,Fitness,4,Cross Fit
+574,United States,2007,Fitness,5,Zumba
+575,United States,2007,How To,1,How to Kiss
+576,United States,2007,How To,2,How to Draw
+577,United States,2007,How To,3,How to Knit
+578,United States,2007,How To,4,How to Hack
+579,United States,2007,How To,5,How to Dance
+580,United States,2007,Lawsuits,1,Borat Lawsuit
+581,United States,2007,Lawsuits,2,Vonage Lawsuit
+582,United States,2007,Lawsuits,3,iPhone Lawsuit
+583,United States,2007,Lawsuits,4,Facebook Lawsuit
+584,United States,2007,Lawsuits,5,Jamie Gold Lawsuit
+585,United States,2007,Lyrics,1,Umbrella Lyrics (Rihanna)
+586,United States,2007,Lyrics,2,Soulja Boy Lyrics
+587,United States,2007,Lyrics,3,Bubbly Lyrics (Colbie Caillat)
+588,United States,2007,Lyrics,4,Paramore Lyrics
+589,United States,2007,Lyrics,5,Lil Wayne Lyrics
+590,United States,2007,Presidential Campaign,1,Ron Paul
+591,United States,2007,Presidential Campaign,2,Fred Thompson
+592,United States,2007,Presidential Campaign,3,Hilary Clinton
+593,United States,2007,Presidential Campaign,4,Barack Obama
+594,United States,2007,Presidential Campaign,5,John Edwards
+595,United States,2007,Recipes,1,Master Cleanse Recipe
+596,United States,2007,Recipes,2,Ratatouille Recipe
+597,United States,2007,Recipes,3,Lemonade Diet Recipe
+598,United States,2007,Recipes,4,Mojito Recipe
+599,United States,2007,Recipes,5,Zucchini Bread Recipe
+600,United States,2007,Ringtones,1,Mosquito Ringtone
+601,United States,2007,Ringtones,2,24 Ringtone
+602,United States,2007,Ringtones,3,The Office Ringtone
+603,United States,2007,Ringtones,4,Silent Ringtone
+604,United States,2007,Ringtones,5,Crazy Frog Ringtone
+605,United States,2007,What is,1,What Is Love
+606,United States,2007,What is,2,What Is Autism
+607,United States,2007,What is,3,What Is RSS
+608,United States,2007,What is,4,What Is Lupus
+609,United States,2007,What is,5,What Is SAP
+610,United States,2007,Who is,1,Who Is God
+611,United States,2007,Who is,2,Who Is Who
+612,United States,2007,Who is,3,Who Is Lookup
+613,United States,2007,Who is,4,Who Is Jesus
+614,United States,2007,Who is,5,Who Is It
+615,Global,2008,Campaign Buzzwords,1,Joe The Plumber
+616,Global,2008,Campaign Buzzwords,2,Jeremiah Wright
+617,Global,2008,Campaign Buzzwords,3,Maverick
+618,Global,2008,Campaign Buzzwords,4,William Ayers
+619,Global,2008,Campaign Buzzwords,5,Bridge To Nowhere
+620,Global,2008,Cocktails,1,Martini
+621,Global,2008,Cocktails,2,Mojito
+622,Global,2008,Cocktails,3,Margarita
+623,Global,2008,Cocktails,4,Manhattan
+624,Global,2008,Cocktails,5,Cosmopolitan
+625,Global,2008,Comfort Foods,1,Ice Cream
+626,Global,2008,Comfort Foods,2,Chili
+627,Global,2008,Comfort Foods,3,Spaghetti
+628,Global,2008,Comfort Foods,4,Meatloaf
+629,Global,2008,Comfort Foods,5,Fried Chicken
+630,Global,2008,Concerts,1,Jonas Brothers
+631,Global,2008,Concerts,2,Coldplay
+632,Global,2008,Concerts,3,Hannah Montana
+633,Global,2008,Concerts,4,Kenny Chesney
+634,Global,2008,Concerts,5,Carrie Underwood
+635,Global,2008,Deaths of 2008,1,Heath Ledger
+636,Global,2008,Deaths of 2008,2,Bernie Mac
+637,Global,2008,Deaths of 2008,3,Tim Russert
+638,Global,2008,Deaths of 2008,4,Isaac Hayes
+639,Global,2008,Deaths of 2008,5,George Carlin
+640,Global,2008,DIY,1,DIY Wedding
+641,Global,2008,DIY,2,DIY TV
+642,Global,2008,DIY,3,DIY Solar
+643,Global,2008,DIY,4,DIY Tile
+644,Global,2008,DIY,5,DIY Audio
+645,Global,2008,How To...,1,How To Draw
+646,Global,2008,How To...,2,How To Kiss
+647,Global,2008,How To...,3,How To Write
+648,Global,2008,How To...,4,How To Cook
+649,Global,2008,How To...,5,How To Tie
+650,Global,2008,It's All Over Now,1,Hugh Hefner & Holly Madison
+651,Global,2008,It's All Over Now,2,Danity Kane
+652,Global,2008,It's All Over Now,3,Jennifer Aniston & John Mayer
+653,Global,2008,It's All Over Now,4,Taylor Swift & Joe Jonas
+654,Global,2008,It's All Over Now,5,Jessica Simpson & Tony Romo
+655,Global,2008,Lyrics,1,With You
+656,Global,2008,Lyrics,2,My Life
+657,Global,2008,Lyrics,3,Love Song
+658,Global,2008,Lyrics,4,Lollipop
+659,Global,2008,Lyrics,5,Low
+660,Global,2008,Mascots,1,Olympic Mascot
+661,Global,2008,Mascots,2,Georgia Mascot
+662,Global,2008,Mascots,3,Tennessee Mascot
+663,Global,2008,Mascots,4,Ohio State Mascot
+664,Global,2008,Mascots,5,Phillies Mascot
+665,Global,2008,MLB,1,Boston Red Sox
+666,Global,2008,MLB,2,New York Yankees
+667,Global,2008,MLB,3,Chicago Cubs
+668,Global,2008,MLB,4,Philadelphia Phillies
+669,Global,2008,MLB,5,New York Mets
+670,Global,2008,Movie Trailers,1,Dark Knight
+671,Global,2008,Movie Trailers,2,Iron Man
+672,Global,2008,Movie Trailers,3,Hulk
+673,Global,2008,Movie Trailers,4,Star Wars
+674,Global,2008,Movie Trailers,5,Indiana Jones
+675,Global,2008,NBA Teams,1,Los Angeles Lakers
+676,Global,2008,NBA Teams,2,Boston Celtics
+677,Global,2008,NBA Teams,3,Phoenix Suns
+678,Global,2008,NBA Teams,4,New York Knicks
+679,Global,2008,NBA Teams,5,Detroit Pistons
+680,Global,2008,NFL Teams,1,New York Giants
+681,Global,2008,NFL Teams,2,Dallas Cowboys
+682,Global,2008,NFL Teams,3,New England Patriots
+683,Global,2008,NFL Teams,4,Pittsburgh Steelers
+684,Global,2008,NFL Teams,5,Green Bay Packers
+685,Global,2008,NHL Teams,1,Detroit Red Wings
+686,Global,2008,NHL Teams,2,Pittsburgh Penguins
+687,Global,2008,NHL Teams,3,Buffalo Sabres
+688,Global,2008,NHL Teams,4,Philadelphia Flyers
+689,Global,2008,NHL Teams,5,Boston Bruins
+690,Global,2008,Olympic Sports,1,Gymnastics
+691,Global,2008,Olympic Sports,2,Swimming
+692,Global,2008,Olympic Sports,3,Soccer
+693,Global,2008,Olympic Sports,4,Tennis
+694,Global,2008,Olympic Sports,5,Basketball
+695,Global,2008,Political News Sources,1,Fox
+696,Global,2008,Political News Sources,2,CNN
+697,Global,2008,Political News Sources,3,ABC
+698,Global,2008,Political News Sources,4,CBS
+699,Global,2008,Political News Sources,5,MSNBC
+700,Global,2008,Reality Shows,1,American Idol
+701,Global,2008,Reality Shows,2,Big Brother
+702,Global,2008,Reality Shows,3,Dancing with the Stars
+703,Global,2008,Reality Shows,4,So You Think You Can Dance
+704,Global,2008,Reality Shows,5,The Hills
+705,Global,2008,Rivalries,1,Red River Rivalry
+706,Global,2008,Rivalries,2,Michigan Ohio State Rivalry
+707,Global,2008,Rivalries,3,Red Sox Yankees Rivalry
+708,Global,2008,Rivalries,4,Lakers Celtics Rivalry
+709,Global,2008,Rivalries,5,Georgia Auburn Rivalry
+710,Global,2008,Soccer Teams,1,Manchester United F.C.
+711,Global,2008,Soccer Teams,2,Chelsea F.C.
+712,Global,2008,Soccer Teams,3,Chivas
+713,Global,2008,Soccer Teams,4,FC Barcelona
+714,Global,2008,Soccer Teams,5,Arsenal F.C.
+715,Global,2008,Social Networks,1,Facebook
+716,Global,2008,Social Networks,2,Myspace
+717,Global,2008,Social Networks,3,Hi5
+718,Global,2008,Social Networks,4,Orkut
+719,Global,2008,Social Networks,5,LinkedIn
+720,Global,2008,TV Shows,1,American Idol
+721,Global,2008,TV Shows,2,Lost
+722,Global,2008,TV Shows,3,SNL
+723,Global,2008,TV Shows,4,The Office
+724,Global,2008,TV Shows,5,Family Guy
+725,Global,2008,What Is...,1,What is Love
+726,Global,2008,What Is...,2,What is Life
+727,Global,2008,What Is...,3,What is Java
+728,Global,2008,What Is...,4,What is SAP
+729,Global,2008,What Is...,5,What is RSS
+730,Global,2008,Who is...,1,Who is Obama
+731,Global,2008,Who is...,2,Who is McCain
+732,Global,2008,Who is...,3,Who is Palin
+733,Global,2008,Who is...,4,Who is Lil Wayne
+734,Global,2008,Who is...,5,Who is Miley Cyrus
+735,Argentina,2008,Conflicto del Campo,1,Retenciones
+736,Argentina,2008,Conflicto del Campo,2,Campo vs. Gobierno
+737,Argentina,2008,Conflicto del Campo,3,Kirchner
+738,Argentina,2008,Conflicto del Campo,4,Alfredo De Angelis
+739,Argentina,2008,Conflicto del Campo,5,Cobos
+740,Argentina,2008,Economia,1,Dolar
+741,Argentina,2008,Economia,2,PBI
+742,Argentina,2008,Economia,3,Rentas
+743,Argentina,2008,Economia,4,Inflacion
+744,Argentina,2008,Economia,5,Crisis
+745,Argentina,2008,Fútbol,1,Boca
+746,Argentina,2008,Fútbol,2,River
+747,Argentina,2008,Fútbol,3,San Lorenzo
+748,Argentina,2008,Fútbol,4,Racing
+749,Argentina,2008,Fútbol,5,Independiente
+750,Argentina,2008,Google,1,Google
+751,Argentina,2008,Google,2,Google Earth
+752,Argentina,2008,Google,3,Traductor Google
+753,Argentina,2008,Google,4,Google Maps
+754,Argentina,2008,Google,5,Google Videos
+755,Argentina,2008,Más Popular,1,Juegos Juegos
+756,Argentina,2008,Más Popular,2,Juegos
+757,Argentina,2008,Más Popular,3,Argentina
+758,Argentina,2008,Más Popular,4,YouTube
+759,Argentina,2008,Más Popular,5,Videos
+760,Australia,2008,Most Popular,1,Games
+761,Australia,2008,Most Popular,2,Sydney
+762,Australia,2008,Most Popular,3,YouTube
+763,Australia,2008,Most Popular,4,Myspace
+764,Australia,2008,Most Popular,5,Facebook
+765,Australia,2008,Top Crises,1,Financial
+766,Australia,2008,Top Crises,2,Time
+767,Australia,2008,Top Crises,3,Credit
+768,Australia,2008,Top Crises,4,Cuban Missle
+769,Australia,2008,Top Crises,5,Economic
+770,Australia,2008,Top Movies,1,Australia
+771,Australia,2008,Top Movies,2,The Dark Knight
+772,Australia,2008,Top Movies,3,Indiana Jones
+773,Australia,2008,Top Movies,4,Iron Man
+774,Australia,2008,Top Movies,5,Hancock
+775,Australia,2008,Top Olympians,1,Stephanie Rice
+776,Australia,2008,Top Olympians,2,Usain Bolt
+777,Australia,2008,Top Olympians,3,Grant Hackett
+778,Australia,2008,Top Olympians,4,Michael Phelps
+779,Australia,2008,Top Olympians,5,Eamon Sullivan
+780,Australia,2008,Top Stores,1,Harvey Norman
+781,Australia,2008,Top Stores,2,Target
+782,Australia,2008,Top Stores,3,Coles
+783,Australia,2008,Top Stores,4,Myer
+784,Australia,2008,Top Stores,5,IKEA
+785,Austria,2008,Die Häufigsten Suchbegriffe 2008,1,YouTube
+786,Austria,2008,Die Häufigsten Suchbegriffe 2008,2,Wetter
+787,Austria,2008,Die Häufigsten Suchbegriffe 2008,3,Google
+788,Austria,2008,Die Häufigsten Suchbegriffe 2008,4,ORF
+789,Austria,2008,Die Häufigsten Suchbegriffe 2008,5,eBay
+790,Austria,2008,Meist Gesuchte Automarken 2008,1,VW
+791,Austria,2008,Meist Gesuchte Automarken 2008,2,Audi
+792,Austria,2008,Meist Gesuchte Automarken 2008,3,BMW
+793,Austria,2008,Meist Gesuchte Automarken 2008,4,Ford
+794,Austria,2008,Meist Gesuchte Automarken 2008,5,Porsche
+795,Austria,2008,Meist Gesuchte Personen 2008,1,Britney Spears
+796,Austria,2008,Meist Gesuchte Personen 2008,2,Heath Ledger
+797,Austria,2008,Meist Gesuchte Personen 2008,3,Angelina Jolie
+798,Austria,2008,Meist Gesuchte Personen 2008,4,Barack Obama
+799,Austria,2008,Meist Gesuchte Personen 2008,5,Vanessa Anne Hudgens
+800,Austria,2008,Meist Gesuchte Skandale 2008,1,BAWAG
+801,Austria,2008,Meist Gesuchte Skandale 2008,2,Max Mosley
+802,Austria,2008,Meist Gesuchte Skandale 2008,3,AKH
+803,Austria,2008,Meist Gesuchte Skandale 2008,4,Amstetten
+804,Austria,2008,Meist Gesuchte Skandale 2008,5,Miley Cyrus
+805,Austria,2008,Meistgesuchte Rezepte 2008,1,Sachertorte
+806,Austria,2008,Meistgesuchte Rezepte 2008,2,Tiramisu
+807,Austria,2008,Meistgesuchte Rezepte 2008,3,Palatschinken
+808,Austria,2008,Meistgesuchte Rezepte 2008,4,Lasagne
+809,Austria,2008,Meistgesuchte Rezepte 2008,5,Pizza
+810,Belgium,2008,Most Searched,1,Facebook
+811,Belgium,2008,Most Searched,2,Netlog
+812,Belgium,2008,Most Searched,3,Skyrock
+813,Belgium,2008,Most Searched,4,iPhone
+814,Belgium,2008,Most Searched,5,YouTube
+815,Brazil,2008,Celebridades,1,Juliana Paes
+816,Brazil,2008,Celebridades,2,Juliana Knust
+817,Brazil,2008,Celebridades,3,Malu Mader
+818,Brazil,2008,Celebridades,4,Dudu Azevedo
+819,Brazil,2008,Celebridades,5,Britney Spears
+820,Brazil,2008,Eleições 2008,1,Resultado
+821,Brazil,2008,Eleições 2008,2,Vereadores
+822,Brazil,2008,Eleições 2008,3,Candidatos
+823,Brazil,2008,Eleições 2008,4,Apuração
+824,Brazil,2008,Eleições 2008,5,Eleição Municipal
+825,Brazil,2008,Futebol,1,São Paulo Futebol
+826,Brazil,2008,Futebol,2,Santos
+827,Brazil,2008,Futebol,3,Futebol Ao Vivo
+828,Brazil,2008,Futebol,4,Futebol Feminino
+829,Brazil,2008,Futebol,5,Palmeiras
+830,Brazil,2008,Mais Pesquisados,1,Orkut
+831,Brazil,2008,Mais Pesquisados,2,Jogos
+832,Brazil,2008,Mais Pesquisados,3,Download
+833,Brazil,2008,Mais Pesquisados,4,Fotos
+834,Brazil,2008,Mais Pesquisados,5,YouTube
+835,Brazil,2008,Relaciondada com o Google,1,Google Maps
+836,Brazil,2008,Relaciondada com o Google,2,Traductor
+837,Brazil,2008,Relaciondada com o Google,3,Google Earth
+838,Brazil,2008,Relaciondada com o Google,4,Orkut
+839,Brazil,2008,Relaciondada com o Google,5,Google Videos
+840,Canada,2008,Most Popular,1,Facebook
+841,Canada,2008,Most Popular,2,YouTube
+842,Canada,2008,Most Popular,3,Lyrics
+843,Canada,2008,Most Popular,4,Weather
+844,Canada,2008,Most Popular,5,Games
+845,Canada,2008,Top Celebrities,1,Britney Spears
+846,Canada,2008,Top Celebrities,2,Jessica Alba
+847,Canada,2008,Top Celebrities,3,Heath Ledger
+848,Canada,2008,Top Celebrities,4,Lindsay Lohan
+849,Canada,2008,Top Celebrities,5,Angelina Jolie
+850,Canada,2008,Top News Sources,1,CBC
+851,Canada,2008,Top News Sources,2,BBC
+852,Canada,2008,Top News Sources,3,CTV
+853,Canada,2008,Top News Sources,4,CNN
+854,Canada,2008,Top News Sources,5,Global
+855,Canada,2008,Top Personal Electronics,1,Palm Treo
+856,Canada,2008,Top Personal Electronics,2,BlackBerry
+857,Canada,2008,Top Personal Electronics,3,Sync
+858,Canada,2008,Top Personal Electronics,4,HP iPAQ
+859,Canada,2008,Top Personal Electronics,5,Slingbox
+860,Canada,2008,Top Political Parties,1,Green Party
+861,Canada,2008,Top Political Parties,2,Liberal Party
+862,Canada,2008,Top Political Parties,3,Conservative Party
+863,Canada,2008,Top Political Parties,4,NDP
+864,Canada,2008,Top Political Parties,5,Bloc Québécois
+865,Chile,2008,Economía y Política,1,Trabajo
+866,Chile,2008,Economía y Política,2,Servicio de Impuestos Internos
+867,Chile,2008,Economía y Política,3,BCI
+868,Chile,2008,Economía y Política,4,AFP
+869,Chile,2008,Economía y Política,5,Banco Estado
+870,Chile,2008,Fútbol,1,CDF
+871,Chile,2008,Fútbol,2,Colo Colo
+872,Chile,2008,Fútbol,3,UC
+873,Chile,2008,Fútbol,4,ESPN
+874,Chile,2008,Fútbol,5,ANFP
+875,Chile,2008,Google,1,Google
+876,Chile,2008,Google,2,Traductor Google
+877,Chile,2008,Google,3,Google Earth
+878,Chile,2008,Google,4,Google Maps
+879,Chile,2008,Google,5,YouTube
+880,Chile,2008,Más Populares,1,Chile
+881,Chile,2008,Más Populares,2,Juegos Juegos
+882,Chile,2008,Más Populares,3,Juegos
+883,Chile,2008,Más Populares,4,YouTube
+884,Chile,2008,Más Populares,5,Facebook
+885,Chile,2008,Personajes Del Año,1,Barbie
+886,Chile,2008,Personajes Del Año,2,Mario Bros.
+887,Chile,2008,Personajes Del Año,3,Wisin y Yandel
+888,Chile,2008,Personajes Del Año,4,Madonna
+889,Chile,2008,Personajes Del Año,5,Harry Potter
+890,China,2008,年度搜索最多 ,1,Sina
+891,China,2008,年度搜索最多 ,2,Netease
+892,China,2008,年度搜索最多 ,3,Taobao
+893,China,2008,年度搜索最多 ,4,Youku
+894,China,2008,年度搜索最多 ,5,Tudou
+895,China,2008,年度搜索最多的“是什么”,1,三聚氰胺是什么
+896,China,2008,年度搜索最多的“是什么”,2,人肉搜索是什么
+897,China,2008,年度搜索最多的“是什么”,3,次贷危机是什么
+898,China,2008,年度搜索最多的“是什么”,4,Erp是什么
+899,China,2008,年度搜索最多的“是什么”,5,Cpi是什么
+900,China,2008,年度新词汇,1,山寨
+901,China,2008,年度新词汇,2,囧
+902,China,2008,年度新词汇,3,很黄很暴力
+903,China,2008,年度新词汇,4,叉腰肌
+904,China,2008,年度新词汇,5,三个俯卧撑
+905,China,2008,年度热点中国事件,1,四川地震
+906,China,2008,年度热点中国事件,2,奥运会开幕式
+907,China,2008,年度热点中国事件,3,不合格奶粉名单
+908,China,2008,年度热点中国事件,4,西藏暴乱
+909,China,2008,年度热点中国事件,5,手足口病
+910,China,2008,年度热点国际事件,1,格鲁吉亚
+911,China,2008,年度热点国际事件,2,美国大选
+912,China,2008,年度热点国际事件,3,金融危机
+913,China,2008,年度热点国际事件,4,达尔富尔
+914,China,2008,年度热点国际事件,5,缅甸热带风暴
+915,Colombia,2008,Economía,1,Economía Política
+916,Colombia,2008,Economía,2,Economía Colombiana
+917,Colombia,2008,Economía,3,Historia
+918,Colombia,2008,Economía,4,Solidaria
+919,Colombia,2008,Economía,5,Que Es Economía
+920,Colombia,2008,Escándalos,1,Ana Karina
+921,Colombia,2008,Escándalos,2,Laura Acuña
+922,Colombia,2008,Escándalos,3,Escándalo De Valledupar
+923,Colombia,2008,Escándalos,4,Belinda
+924,Colombia,2008,Escándalos,5,Vanessa Hudgens
+925,Colombia,2008,Los Viajes,1,Bogotá
+926,Colombia,2008,Los Viajes,2,Medellin
+927,Colombia,2008,Los Viajes,3,San Andrés
+928,Colombia,2008,Los Viajes,4,Argentina
+929,Colombia,2008,Los Viajes,5,Panamá
+930,Colombia,2008,Más Populares,1,Juegos Juegos
+931,Colombia,2008,Más Populares,2,Juegos
+932,Colombia,2008,Más Populares,3,Colombia
+933,Colombia,2008,Más Populares,4,YouTube
+934,Colombia,2008,Más Populares,5,Facebook
+935,Colombia,2008,Universidades,1,Universidad Nacional
+936,Colombia,2008,Universidades,2,Universidad Distrital
+937,Colombia,2008,Universidades,3,Javeriana
+938,Colombia,2008,Universidades,4,Universidad Libre
+939,Colombia,2008,Universidades,5,Universidad De Antoquia
+940,Czechia,2008,"Kauzy Ceských Politiků, Slavných A Bohatých",1,Kauza Berka
+941,Czechia,2008,"Kauzy Ceských Politiků, Slavných A Bohatých",2,Kauza Mareš
+942,Czechia,2008,"Kauzy Ceských Politiků, Slavných A Bohatých",3,Kauza Cunek
+943,Czechia,2008,"Kauzy Ceských Politiků, Slavných A Bohatých",4,Kauza Morava
+944,Czechia,2008,"Kauzy Ceských Politiků, Slavných A Bohatých",5,Kauza Nohavica
+945,Czechia,2008,Nejvyhledávanější,1,MP3
+946,Czechia,2008,Nejvyhledávanější,2,Hry
+947,Czechia,2008,Nejvyhledávanější,3,YouTube
+948,Czechia,2008,Nejvyhledávanější,4,Mapy
+949,Czechia,2008,Nejvyhledávanější,5,Práce
+950,Czechia,2008,Oblíbené Sporty v Čechách,1,Fotbal
+951,Czechia,2008,Oblíbené Sporty v Čechách,2,Hokej
+952,Czechia,2008,Oblíbené Sporty v Čechách,3,Golf
+953,Czechia,2008,Oblíbené Sporty v Čechách,4,Euro 2008
+954,Czechia,2008,Oblíbené Sporty v Čechách,5,Skate
+955,Czechia,2008,České Celebrity,1,Ewa Farna
+956,Czechia,2008,České Celebrity,2,Nohavica
+957,Czechia,2008,České Celebrity,3,Daniel Landa
+958,Czechia,2008,České Celebrity,4,Chinaski
+959,Czechia,2008,České Celebrity,5,Tři Sestry
+960,Czechia,2008,"Český, česká, české...",1,Česká televize
+961,Czechia,2008,"Český, česká, české...",2,pravidla českého pravopisu
+962,Czechia,2008,"Český, česká, české...",3,česká hymna
+963,Czechia,2008,"Český, česká, české...",4,Česká republika
+964,Czechia,2008,"Český, česká, české...",5,české rádio
+965,Denmark,2008,Film og TV,1,Paradise Hotel
+966,Denmark,2008,Film og TV,2,Lost
+967,Denmark,2008,Film og TV,3,X-Factor
+968,Denmark,2008,Film og TV,4,MGP
+969,Denmark,2008,Film og TV,5,Vild Med Dans
+970,Denmark,2008,Kendte,1,Barack Obama
+971,Denmark,2008,Kendte,2,Paris Hilton
+972,Denmark,2008,Kendte,3,Britney Spears
+973,Denmark,2008,Kendte,4,Rihanna
+974,Denmark,2008,Kendte,5,Metallica
+975,Denmark,2008,Medier,1,TV2
+976,Denmark,2008,Medier,2,Dr
+977,Denmark,2008,Medier,3,Ekstra Bladet
+978,Denmark,2008,Medier,4,Politiken
+979,Denmark,2008,Medier,5,JP
+980,Denmark,2008,Mest Populære,1,AF
+981,Denmark,2008,Mest Populære,2,YouTube
+982,Denmark,2008,Mest Populære,3,Facebook
+983,Denmark,2008,Mest Populære,4,Krak
+984,Denmark,2008,Mest Populære,5,Danmark
+985,Denmark,2008,Rejser og Ferier,1,Rejser
+986,Denmark,2008,Rejser og Ferier,2,London
+987,Denmark,2008,Rejser og Ferier,3,Berlin
+988,Denmark,2008,Rejser og Ferier,4,Flybilletter
+989,Denmark,2008,Rejser og Ferier,5,Thailand
+990,Finland,2008,Most Popular,1,YouTube
+991,Finland,2008,Most Popular,2,IRC
+992,Finland,2008,Most Popular,3,Iltalehti
+993,Finland,2008,Most Popular,4,Iltasanomat
+994,Finland,2008,Most Popular,5,You
+995,Finland,2008,Top Companies,1,Google
+996,Finland,2008,Top Companies,2,Nordea
+997,Finland,2008,Top Companies,3,Enrio
+998,Finland,2008,Top Companies,4,Nettiauto
+999,Finland,2008,Top Companies,5,Nokia

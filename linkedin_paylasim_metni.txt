@@ -1,0 +1,10 @@
+📊 20 Yılda Değişen Trendler | Etkileşimli Veri Hikâyesi
+
+2001–2020 Google Trends veri setini inceleyerek trend kayıtlarının yıllar, konumlar ve kategoriler arasında nasıl dağıldığını araştırdım. Python, pandas ve Jupyter Notebook ile veri ön işleme ve analiz yaptım; ardından HTML, CSS ve JavaScript kullanarak mobil uyumlu, kaydırma tabanlı bir scrollytelling deneyimi hazırladım.
+
+Bu projede özellikle önemli bir noktayı korudum: veri setindeki kayıt sayısı, toplam Google arama hacmiyle aynı şey değil. Bulguları bu sınırlılığı gözeterek yorumladım.
+
+📁 GitHub deposu: https://github.com/selinddrmz/20-yilda-degisen-trendler
+🌐 Canlı site: https://selinddrmz.github.io/20-yilda-degisen-trendler/ (GitHub Pages yayına alındıktan sonra kullanılabilir)
+
+#DataAnalytics #DataStorytelling #Python #GoogleTrends #WebDevelopment

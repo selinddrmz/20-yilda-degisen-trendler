@@ -1,0 +1,1 @@
+Bu klasör statik web sitesidir. Proje ana klasöründeki README.md dosyasındaki yerel çalıştırma adımlarını izleyin. Site JSON dosyasını fetch ile okuduğu için yerel HTTP sunucusu gerekir. Sekiz scrollytelling adımının grafikleri aynı temizlenmiş veri setinden üretilir.
